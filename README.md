@@ -12,6 +12,9 @@ This Laravel application provides a complete CRUD API for managing cars with Swa
 
 ## Installation
 
+### JUST DO "MAKE START" IN YOUR TERMINAL !!!!!!!!
+
+Optionnaly:
 1. Install dependencies:
 ```bash
 composer install
