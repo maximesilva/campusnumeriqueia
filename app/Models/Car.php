@@ -21,9 +21,4 @@ class Car extends Model
         'color',
         'price',
     ];
-
-    public function users()
-    {
-        return $this->belongsToMany(User::class);
-    }
 }
